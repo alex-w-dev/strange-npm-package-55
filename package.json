@@ -1,6 +1,6 @@
 {
   "name": "strange-npm-package-55",
-  "version": "3.0.1",
+  "version": "4.0.1",
   "description": "This is for npm package publishing",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/alex-w-dev/strange-npm-package-55#readme",
   "devDependencies": {
-    "@types/node": "^17.0.23"
+    "@types/node": "^17.0.23",
+    "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1107.0",
+    "mime-types": "^2.1.35",
+    "walk": "^2.3.15"
   }
 }

@@ -1,1 +1,3 @@
-export * from 'src/upload-async'
+module.exports = {
+  ...require("./src/yandex-storage-upload"),
+};

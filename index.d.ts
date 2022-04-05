@@ -1,1 +1,1 @@
-export * from './src/upload-async';
+export * from "./src/yandex-storage-upload";
