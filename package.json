@@ -1,6 +1,6 @@
 {
   "name": "strange-npm-package-55",
-  "version": "4.0.1",
+  "version": "4.0.3",
   "description": "This is for npm package publishing",
   "main": "index.js",
   "scripts": {
